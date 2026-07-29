@@ -65,6 +65,20 @@ https://scholar.google.com.eg/citations?user=eVRrK_YAAAAJ&hl=en
 ---
 
 # 🚀 Featured Research Projects
+---
+## 🎭 SeeDeepfakes
+
+Explainable Deepfake Detection using Deep Learning, XAI and Large Language Models
+
+Repository
+
+https://github.com/ParkJiYeoung8297/SeeDeepfakes
+
+Paper
+
+https://www.techscience.com/cmc/online/detail/27664
+
+---
 
 ## 🚗 DriverMe
 
@@ -80,19 +94,6 @@ https://www.techscience.com/cmc/online/detail/27664
 
 ---
 
-## 🎭 SeeDeepfakes
-
-Explainable Deepfake Detection using Deep Learning, XAI and Large Language Models
-
-Repository
-
-https://github.com/ParkJiYeoung8297/SeeDeepfakes
-
-Paper
-
-https://www.techscience.com/cmc/online/detail/27664
-
----
 
 ## 🛡️ MV-Honeypot
 
@@ -139,6 +140,7 @@ https://computer.hufs.ac.kr/computer/11454/subview.do
 # 📫 Contact
 
 📧 mohsencomm@gmail.com
+📧 mohsencomm@hufs.ac.kr
 
 🏫 Hankuk University of Foreign Studies
 

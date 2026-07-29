@@ -134,7 +134,7 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 *Computers, Materials & Continua (CMC), 2026*
 
-[![Paper](https://img.shields.io/badge/Paper-CMC%202025-blue?style=for-the-badge)](https://www.techscience.com/cmc/online/detail/27664)
+[![Paper](https://img.shields.io/badge/Paper-CMC%202026-blue?style=for-the-badge)](https://www.techscience.com/cmc/online/detail/27664)
 [![GitHub](https://img.shields.io/badge/GitHub-SeeDeepfakes-black?style=for-the-badge&logo=github)](https://github.com/ParkJiYeoung8297/SeeDeepfakes)
 
 ---

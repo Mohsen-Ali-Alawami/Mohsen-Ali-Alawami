@@ -71,8 +71,6 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 [![Paper](https://img.shields.io/badge/Paper-JNCA%202025-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S108480452500164X)
 
-[![Paper](https://img.shields.io/badge/Paper-PMC%202024-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1574119224000488)
-
 ---
 ### AV-Teller: Browser Fingerprinting for Client-Side Security Software Identification
 
@@ -104,7 +102,7 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 *IEEE Internet of Things Journal, 2022*
 
-[![Paper](https://img.shields.io/badge/Paper-Sensors%202023-blue?style=for-the-badge)](https://www.mdpi.com/1424-8220/23/3/1310)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20IoT%20Journal-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/9820776)
 
 ---
 
@@ -123,8 +121,6 @@ Here are some of my representative publications in Artificial Intelligence and C
 ### MotionID: Towards practical behavioral biometrics-based implicit user authentication on smartphones
 
 *Pervasive and Mobile Computing, 2024*
-
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20IoT%20Journal-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/9820776)
 
 [![Paper](https://img.shields.io/badge/Paper-PMC%202024-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1574119224000488)
 

@@ -45,19 +45,6 @@ I am passionate about developing practical AI-driven solutions for authenticatio
 
 # 📚 Selected Publications
 
-My publications cover:
-
-- AI-based Security
-- Driver Authentication
-- Deepfake Detection
-- Explainable AI
-- Metaverse Security
-- Behavioral Biometrics
-- CAN Bus Intrusion Detection
-- IoT Authentication
-- Intelligent Transportation Systems
-
-
 Here are some of my representative publications in Artificial Intelligence and Cybersecurity.
 
 ---

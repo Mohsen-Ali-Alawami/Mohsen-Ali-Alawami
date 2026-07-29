@@ -126,8 +126,13 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 ---
 
+### LocAuth: A Fine-Grained Indoor Location-Based Authentication System Using Wireless Networks Characteristics
 
+*Computers & Security, 2020*
 
+[![Paper](https://img.shields.io/badge/Paper-Computers%20%26%20Security-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S0167404819302226)
+
+---
 ## 🎭 Deepfake Detection & Explainable AI
 
 ### Seeing Through Deepfakes: Explainable and Usable Multi-Task Framework with Deep Learning and Large Language Models

@@ -114,7 +114,6 @@ Here are some of my representative publications in Artificial Intelligence and C
 *Computer Modeling in Engineering & Sciences (CMES), 2025*
 
 [![Paper](https://img.shields.io/badge/Paper-CMES%202025-blue?style=for-the-badge)](https://www.techscience.com/CMES/v143n2/61440)
-[![DOI](https://img.shields.io/badge/DOI-10.32604%2Fcmes.2025.063819-blue?style=for-the-badge)](https://doi.org/10.32604/cmes.2025.063819)
 [![GitHub](https://img.shields.io/badge/GitHub-DriveMe-black?style=for-the-badge&logo=github)](https://github.com/Mohsen-Ali-Alawami/Driver-Authentication-DriveMe-)
 
 ---

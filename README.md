@@ -164,20 +164,13 @@ If you are interested in research collaboration, student supervision, or joint p
 
 ---
 
-# 🏫 Academic Profile
-
-**Hankuk University of Foreign Studies (HUFS)**
-
-https://computer.hufs.ac.kr/computer/11454/subview.do
-
----
-
-# 📫 Contact
+# 📫 Academic Profile and Contact
 
 📧 Personal: [mohsencomm@gmail.com](mailto:mohsencomm@gmail.com)  
 📧 Academic: [mohsencomm@hufs.ac.kr](mailto:mohsencomm@hufs.ac.kr)
 
-🏫 Hankuk University of Foreign Studies
+🏫 **Hankuk University of Foreign Studies (HUFS)**
+
 
 Yongin-si, South Korea
 

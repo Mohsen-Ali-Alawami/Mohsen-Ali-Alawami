@@ -61,9 +61,6 @@ My publications cover:
 
 Here are some of my representative publications in Artificial Intelligence and Cybersecurity.
 
-
-A selection of my representative publications in Artificial Intelligence, Cybersecurity, Authentication, IoT Security, and Explainable AI.
-
 ---
 
 ## 🛡️ AI for Cybersecurity & IoT Security
@@ -88,6 +85,7 @@ A selection of my representative publications in Artificial Intelligence, Cybers
 ### AnonymEyes: Lightweight and Affordable Privacy-Enhanced Human Detection via Depth Sensing on Edge Devices
 
 *2026 International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2026)*
+
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20ICAIIC%202026-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11454185)
 
 ---
@@ -125,6 +123,9 @@ A selection of my representative publications in Artificial Intelligence, Cybers
 *Pervasive and Mobile Computing, 2024*
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20IoT%20Journal-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/9820776)
+
+[![Paper](https://img.shields.io/badge/Paper-PMC%202024-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1574119224000488)
+
 
 ---
 

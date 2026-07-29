@@ -174,16 +174,19 @@ https://computer.hufs.ac.kr/computer/11454/subview.do
 
 # 📫 Contact
 
-📧 mohsencomm@gmail.com
-📧 mohsencomm@hufs.ac.kr
+📧 Personal: [mohsencomm@gmail.com](mailto:mohsencomm@gmail.com)  
+📧 Academic: [mohsencomm@hufs.ac.kr](mailto:mohsencomm@hufs.ac.kr)
 
 🏫 Hankuk University of Foreign Studies
 
 Yongin-si, South Korea
 
+[![HUFS](https://img.shields.io/badge/HUFS-Faculty%20Profile-8B0000?style=flat-square)](https://computer.hufs.ac.kr/computer/11454/subview.do)
+
 📖 Google Scholar
 
-https://scholar.google.com.eg/citations?user=eVRrK_YAAAAJ&hl=en
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com.eg/citations?user=eVRrK_YAAAAJ&hl=en)
+
 
 ---
 

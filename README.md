@@ -109,12 +109,13 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 ## 🚗 Intelligent Transportation Systems & Authentication
 
-### DriveMe: Towards Lightweight and Practical Driver Authentication System Using Single-Sensor Pressure Data
+### 🚗 DriveMe: Towards Lightweight and Practical Driver Authentication System Using Single-Sensor Pressure Data
 
-*Journal of Network and Computer Applications (JNCA), 2025*
+*Computer Modeling in Engineering & Sciences (CMES), 2025*
 
-[![Paper](https://img.shields.io/badge/Paper-JNCA%202025-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S108480452500164X)
-[![GitHub](https://img.shields.io/badge/GitHub-DriverMe-black?style=for-the-badge&logo=github)](https://github.com/Mohsen-Ali-Alawami/Driver-Authentication-DriveMe)
+[![Paper](https://img.shields.io/badge/Paper-CMES%202025-blue?style=for-the-badge)](https://www.techscience.com/CMES/v143n2/61440)
+[![DOI](https://img.shields.io/badge/DOI-10.32604%2Fcmes.2025.063819-blue?style=for-the-badge)](https://doi.org/10.32604/cmes.2025.063819)
+[![GitHub](https://img.shields.io/badge/GitHub-DriveMe-black?style=for-the-badge&logo=github)](https://github.com/Mohsen-Ali-Alawami/Driver-Authentication-DriveMe-)
 
 ---
 

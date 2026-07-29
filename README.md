@@ -69,6 +69,8 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 *Journal of Network and Computer Applications (JNCA), 2025*
 
+[![Paper](https://img.shields.io/badge/Paper-JNCA%202025-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S108480452500164X)
+
 [![Paper](https://img.shields.io/badge/Paper-PMC%202024-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1574119224000488)
 
 ---
@@ -80,13 +82,13 @@ Here are some of my representative publications in Artificial Intelligence and C
 
 ---
 
----
-
 ### AnonymEyes: Lightweight and Affordable Privacy-Enhanced Human Detection via Depth Sensing on Edge Devices
 
 *2026 International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2026)*
 
+
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20ICAIIC%202026-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11454185)
+
 
 ---
 

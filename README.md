@@ -93,7 +93,7 @@ Here are some of my representative publications in Artificial Intelligence and C
 ---
 
 
-## 🚗 Intelligent Transportation Systems & Authentication
+## 🔐 Authentication & Intelligent Systems
 
 ### 🚗 DriveMe: Towards Lightweight and Practical Driver Authentication System Using Single-Sensor Pressure Data
 

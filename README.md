@@ -58,54 +58,99 @@ My publications cover:
 - IoT Authentication
 - Intelligent Transportation Systems
 
-📖 **Complete publication list**
 
-https://scholar.google.com.eg/citations?user=eVRrK_YAAAAJ&hl=en
+Here are some of my representative publications in Artificial Intelligence and Cybersecurity.
 
----
 
-# 🚀 Featured Research Projects
----
-## 🎭 SeeDeepfakes
-
-Explainable Deepfake Detection using Deep Learning, XAI and Large Language Models
-
-Repository
-
-https://github.com/ParkJiYeoung8297/SeeDeepfakes
-
-Paper
-
-https://www.techscience.com/cmc/online/detail/27664
+A selection of my representative publications in Artificial Intelligence, Cybersecurity, Authentication, IoT Security, and Explainable AI.
 
 ---
 
-## 🚗 DriverMe
+## 🛡️ AI for Cybersecurity & IoT Security
 
-Lightweight Driver Authentication using a Single Pressure Sensor
+### SafeAcc: A lightweight and accurate user identification scheme using location-identity learning for indoor Internet access
 
-Repository
+*Journal of Network and Computer Applications (JNCA), 2025*
 
-https://github.com/Mohsen-Ali-Alawami/Driver-Authentication-DriveMe
+[![Paper](https://img.shields.io/badge/Paper-PMC%202024-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1574119224000488)
 
-Paper
+---
+### AV-Teller: Browser Fingerprinting for Client-Side Security Software Identification
 
-https://www.techscience.com/cmc/online/detail/27664
+*Applied Sciences, 2025*
+
+[![Paper](https://img.shields.io/badge/Paper-Applied%20Sciences%202025-blue?style=for-the-badge)](https://www.mdpi.com/2076-3417/15/9/5059)
+
+---
+
+---
+
+### AnonymEyes: Lightweight and Affordable Privacy-Enhanced Human Detection via Depth Sensing on Edge Devices
+
+*2026 International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2026)*
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20ICAIIC%202026-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11454185)
+
+---
+
+### A comparative study of time series anomaly detection models for industrial control systems
+
+*Sensors, 2023*
+
+[![Paper](https://img.shields.io/badge/Paper-Sensors%202023-blue?style=for-the-badge)](https://www.mdpi.com/1424-8220/23/3/1310)
+
+---
+
+### LocID: A secure and usable location-based smartphone unlocking scheme using Wi-Fi signals and light intensity
+
+*IEEE Internet of Things Journal, 2022*
+
+[![Paper](https://img.shields.io/badge/Paper-Sensors%202023-blue?style=for-the-badge)](https://www.mdpi.com/1424-8220/23/3/1310)
 
 ---
 
 
-## 🛡️ MV-Honeypot
+## 🚗 Intelligent Transportation Systems & Authentication
 
-Security Threat Analysis using Avatar Honeypots in Commercial Metaverse Platforms
+### DriveMe: Towards Lightweight and Practical Driver Authentication System Using Single-Sensor Pressure Data
 
-Repository
+*Journal of Network and Computer Applications (JNCA), 2025*
 
-https://github.com/arpitasarang98/mv_honeypot
+[![Paper](https://img.shields.io/badge/Paper-JNCA%202025-blue?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S108480452500164X)
+[![GitHub](https://img.shields.io/badge/GitHub-DriverMe-black?style=for-the-badge&logo=github)](https://github.com/Mohsen-Ali-Alawami/Driver-Authentication-DriveMe)
 
-Paper
+---
 
-https://www.techscience.com/CMES/v141n1/57716
+### MotionID: Towards practical behavioral biometrics-based implicit user authentication on smartphones
+
+*Pervasive and Mobile Computing, 2024*
+
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20IoT%20Journal-blue?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/9820776)
+
+---
+
+
+
+## 🎭 Deepfake Detection & Explainable AI
+
+### Seeing Through Deepfakes: Explainable and Usable Multi-Task Framework with Deep Learning and Large Language Models
+
+*Computers, Materials & Continua (CMC), 2026*
+
+[![Paper](https://img.shields.io/badge/Paper-CMC%202025-blue?style=for-the-badge)](https://www.techscience.com/cmc/online/detail/27664)
+[![GitHub](https://img.shields.io/badge/GitHub-SeeDeepfakes-black?style=for-the-badge&logo=github)](https://github.com/ParkJiYeoung8297/SeeDeepfakes)
+
+---
+
+## 🌐 Metaverse Security
+
+### MV-Honeypot: Security Threat Analysis by Deploying Avatar as a Honeypot in Commercial Metaverse Platforms
+
+*Computer Modeling in Engineering & Sciences (CMES), 2024*
+
+[![Paper](https://img.shields.io/badge/Paper-CMES%202024-blue?style=for-the-badge)](https://www.techscience.com/CMES/v141n1/57716)
+[![GitHub](https://img.shields.io/badge/GitHub-MV--Honeypot-black?style=for-the-badge&logo=github)](https://github.com/arpitasarang98/mv_honeypot)
+
+---
 
 ---
 

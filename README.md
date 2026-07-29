@@ -9,7 +9,6 @@ Artificial Intelligence • Cybersecurity • Authentication • Deepfake Detect
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com.eg/citations?user=eVRrK_YAAAAJ&hl=en)
 [![HUFS](https://img.shields.io/badge/HUFS-Faculty-red)](https://computer.hufs.ac.kr/computer/11454/subview.do)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:mohsencomm@gmail.com)
 
 </div>
 
